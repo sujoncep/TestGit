@@ -1,4 +1,5 @@
 # TestGit
-This is a testing 
+
+This is a testing
 new changes
-new 2
+some changes
